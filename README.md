@@ -3,6 +3,10 @@
 My capstone project for the Institute of Data aims to predict the popularity of songs on Spotify using a machine learning model trained on a comprehensive dataset of top songs from 70 countries. The dataset includes both audio features and artist popularity metrics, making it a robust resource for building a predictive model.
 
 There were three components required for the capstone encompassing a Jupyter notebook containing the code, technical report, and presentation delivered to my cohort and a panel of expert data trainers.
+### Components
+1. capstoneproject_Mariel Yap_notebook
+2. capstoneproject_Mariel Yap_technical_document
+3. capstoneproject_Mariel Yap_slides - will need to be downloaded raw
 ### Features Used
 The model leverages two key sets of features:
 1. **Audio Features**: Includes attributes such as danceability, energy, loudness, and others extracted from the audio tracks.
